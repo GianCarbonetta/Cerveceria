@@ -1,6 +1,21 @@
-body {
-    background-image: url('/assets/img/cerveza-1920-2.jpg');
-    background-repeat: no-repeat;
-    background-size: cover; 
-background-color: rgb(47, 192, 103);
+
+
+  .home{ 
+color: brown;
+text-align: center;
+font-size: 25px;
   }
+
+  .home :hover
+  {
+    font-size: 30px;
+    color: rgba(105, 26, 26, 0.089);
+  }
+
+  footer{
+    text-align: center;
+
+
+  }
+  
+
